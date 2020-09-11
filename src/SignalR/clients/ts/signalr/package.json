@@ -53,7 +53,7 @@
   },
   "dependencies": {
     "eventsource": "^1.0.7",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "abort-controller": "^3.0.0",
     "fetch-cookie": "^0.7.3",
     "ws": "^6.0.0"
