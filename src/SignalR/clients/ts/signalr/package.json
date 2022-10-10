@@ -52,10 +52,10 @@
     "es6-promise": "^4.2.2"
   },
   "dependencies": {
-    "eventsource": "^1.0.7",
-    "node-fetch": "^2.6.0",
+    "eventsource": "^1.1.1",
+    "node-fetch": "^2.6.7",
     "abort-controller": "^3.0.0",
     "fetch-cookie": "^0.7.3",
-    "ws": "^6.0.0"
+    "ws": "^6.2.2"
   }
 }
